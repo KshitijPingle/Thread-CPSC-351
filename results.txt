@@ -1,0 +1,39 @@
+Pattern 1 :
+Main created Thread 1
+Thread Number : 1 Beginning
+Thread Number : 1 Exiting
+Main created Thread 2
+Thread Number : 2 Beginning
+Thread Number : 2 Exiting
+Main created Thread 3
+Thread Number : 3 Beginning
+Thread Number : 3 Exiting
+Main created Thread 4
+Thread Number : 4 Beginning
+Thread Number : 4 Exiting
+Main created Thread 5
+Thread Number : 5 Beginning
+Thread Number : 5 Exiting
+Main created Thread 6
+Thread Number : 6 Beginning
+Thread Number : 6 Exiting
+
+Pattern 2 :
+Main created Thread 1
+Thread Number : 1 Beginning
+Thread Number : 1 Creating Thread 2
+Thread Number : 2 Beginning
+Thread Number : 2 Creating Thread 3
+Thread Number : 3 Beginning
+Thread Number : 3 Creating Thread 4
+Thread Number : 4 Beginning
+Thread Number : 4 Creating Thread 5
+Thread Number : 5 Beginning
+Thread Number : 5 Creating Thread 6
+Thread Number : 6 Beginning
+Thread Number : 6 Exiting
+Thread Number : 5 Exiting
+Thread Number : 4 Exiting
+Thread Number : 3 Exiting
+Thread Number : 2 Exiting
+Thread Number : 1 Exiting
